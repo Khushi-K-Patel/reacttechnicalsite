@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reacttechnicalsite/static/css/main.304174e6.css",
+    "main.js": "/reacttechnicalsite/static/js/main.6247349e.js",
+    "static/media/img5.jpeg": "/reacttechnicalsite/static/media/img5.89031d155a5fafb54e16.jpeg",
+    "static/media/s1.webp": "/reacttechnicalsite/static/media/s1.e533126e55a73a4271b4.webp",
+    "static/media/s6.webp": "/reacttechnicalsite/static/media/s6.8836f009a869a7ca6448.webp",
+    "static/media/img0.webp": "/reacttechnicalsite/static/media/img0.1d36321cc6a7b55c2387.webp",
+    "static/media/s5.jpg": "/reacttechnicalsite/static/media/s5.61093120fc0b9a1b894c.jpg",
+    "static/media/s4.jpg": "/reacttechnicalsite/static/media/s4.0acb59de733fcba1d0d2.jpg",
+    "static/media/img4.webp": "/reacttechnicalsite/static/media/img4.f14a4a59b097b9949049.webp",
+    "index.html": "/reacttechnicalsite/index.html",
+    "main.304174e6.css.map": "/reacttechnicalsite/static/css/main.304174e6.css.map",
+    "main.6247349e.js.map": "/reacttechnicalsite/static/js/main.6247349e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304174e6.css",
+    "static/js/main.6247349e.js"
+  ]
+}
